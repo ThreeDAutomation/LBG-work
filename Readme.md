@@ -16,3 +16,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ThreeDAutomation/LBG-work.git
 git push -u origin master
+
+git config --global user.name "Your Name"
+    git config --global user.email you@example.com
